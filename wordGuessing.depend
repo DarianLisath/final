@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1543957089 source:c:\users\daria\onedrive\desktop\wordguessing\main.c
+	<stdio.h>
+	<stdlib.h>
+	"meat.h"
+
+1543957020 c:\users\daria\onedrive\desktop\wordguessing\meat.h
+
+1544136043 source:c:\wordguessing\main.c
+	<stdio.h>
+	<stdlib.h>
+	"meat.h"
+
+1544136966 c:\wordguessing\meat.h
+
